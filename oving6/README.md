@@ -1,1 +1,1 @@
-Iterator/Iterable, functional interfaces and lambda notation
+Delegation and observer-observed
